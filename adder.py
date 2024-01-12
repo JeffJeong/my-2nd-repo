@@ -1,3 +1,6 @@
+#adder function
+#return sum of 2 numbers
+
 def add(a,b):
     return a+b
 
